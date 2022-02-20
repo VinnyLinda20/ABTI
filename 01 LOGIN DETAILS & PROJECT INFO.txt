@@ -1,0 +1,10 @@
+*Database: ecommerceapp
+
+*Admin Login
+Email: admin@gmail.com
+Password: 12345678
+
+*User Login 
+Email: darafebriani@gmail.com
+Password: qwerty7890
+
